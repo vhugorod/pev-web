@@ -1,0 +1,36 @@
+li.company-item {
+  background: #FFF;
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+  border-radius: 2px;
+  padding: 20px;
+}
+
+li.company-item header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+p.company-desc {
+  padding-bottom: 10px;
+}
+
+.company-info strong {
+  display: block;
+  font-size: 18px;
+  color: #333;
+  padding-bottom: 10px;
+}
+
+.company-info span {
+  font-size: 16px;
+  margin-top: 2px;
+}
+
+li.company-info p {
+  color: #333;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 10px 0;
+}
