@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import Logo from './assets/logo.png';
 import api from './services/api';
 
 import './global.css';
@@ -31,7 +32,8 @@ function App() {
   return (
     <div id="app">
       <aside>
-        <strong>Cadastrar</strong>
+        <img class="logo" src={Logo} alt="Instituto Agronelli"/>
+        <strong>Cadastrar Ponto</strong>
         <CompanyForm onSubmit={handleAddCompany} />
       </aside>
 
