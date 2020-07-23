@@ -32,7 +32,7 @@ function App() {
   return (
     <div id="app">
       <aside>
-        <img class="logo" src={Logo} alt="Instituto Agronelli"/>
+        <img className="logo" src={Logo} alt="Instituto Agronelli"/>
         <strong>Cadastrar Ponto</strong>
         <CompanyForm onSubmit={handleAddCompany} />
       </aside>
