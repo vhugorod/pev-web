@@ -52,7 +52,7 @@ function CompanyForm({ onSubmit }) {
   return (
     <form onSubmit={handleSubmit}>
       <div className="input-block">
-        <label htmlFor="company_name">Nome do ponto</label>
+        <label htmlFor="company_name">Nome</label>
         <input 
           name="company_name"
           id="company_name" 
