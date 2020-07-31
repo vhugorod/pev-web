@@ -1,3 +1,22 @@
+<h1 align="center">
+PEV - Ponto de entrega voluntária
+</h1>
+
+<p align="center">PEV is a web and mobile application that helps people find a collection point.</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
+<h4 align="center">
+    <img alt="Ponto de entrega voluntário" title="#Ponto de entrega voluntári" width="750px" src=".github/pev-frontend.gif">
+		<br /> Versão 2.0
+</h4>
+
+<hr />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
