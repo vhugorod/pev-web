@@ -2,7 +2,7 @@
 PEV - Ponto de entrega voluntária
 </h1>
 
-<p align="center">PEV is a web and mobile application that helps people find a collection point.</p>
+<p align="center">PEV is a mobile application that helps people find a collection point.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
